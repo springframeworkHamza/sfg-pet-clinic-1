@@ -97,7 +97,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:springframeworkHamza/sfg-pet-clinic-1.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.5</tag>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
